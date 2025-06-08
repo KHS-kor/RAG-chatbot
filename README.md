@@ -1,5 +1,5 @@
 캡스톤 프로젝트 수행결과
 
-pdf, docx 파일을 읽어서 Q/A 형식으로 csv파일로 저장하고 이를 chunking하여 Vector DB에 embeding 합니다. 
+pdf, docx 파일을 읽어서 Q/A 형식으로 csv파일로 저장하고 이를 chunking하여 Vector DB에 Embedding 합니다. 
 UI창에 질문을 하면 질문을 벡터화하여 Vector DB에서 유사도가 높은 답변의 내용을 추출합니다. 
 질문과 유사도가 높은 답변을 참고자료로 sLLM에 프롬프트로 질문하여 전문분야에 대한 답변을 제공하는 코드입니다.
